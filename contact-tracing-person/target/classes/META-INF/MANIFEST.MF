@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Class-Path: lib/amqp-client-5.7.1.jar lib/slf4j-api-1.7.26.jar lib/slf
+ 4j-simple-1.7.26.jar
+Build-Jdk-Spec: 1.8
+Created-By: Maven Integration for Eclipse
+Main-Class: org.java.rabbitmq.Person
+
